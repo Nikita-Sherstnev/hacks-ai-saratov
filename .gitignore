@@ -1,0 +1,5 @@
+venv
+.ipynb_checkpoints
+*.bin
+train_dataset_train.csv
+test_dataset_test.csv
